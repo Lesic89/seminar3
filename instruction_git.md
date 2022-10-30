@@ -132,6 +132,8 @@
 
     git branch -d <branch to delete>
 
+## Удаленные репозитории
+
 
 
 
